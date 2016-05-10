@@ -16,6 +16,7 @@ Ajude Cardozão a encontrar todas as instâncias de apelação contra o golpe.
 - Os Illuminati
 - A Liga da Justiça
 - Os Vingadores
+- Dr. Estranho
 - O Lanterna Verde
 - O Surfista Prateado
 - O Doutor
