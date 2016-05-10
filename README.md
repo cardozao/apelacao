@@ -19,5 +19,5 @@ Ajude Cardozão a encontrar todas as instâncias de apelação contra o golpe.
 - O Lanterna Verde
 - O Surfista Prateado
 - O Doutor
-- O Tribual Vivo
+- O Tribunal Vivo
 - O Criador (também conhecido como Stan Lee)
