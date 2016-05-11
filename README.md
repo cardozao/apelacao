@@ -12,10 +12,12 @@ Ajude Cardozão a encontrar todas as instâncias de apelação contra o golpe.
 - A [Assembleia Geral das Nações Unidas](https://pt.wikipedia.org/wiki/Assembleia_Geral_das_Na%C3%A7%C3%B5es_Unidas)
 - Um colegiado de líderes religiosos formado pelo Papa Francisco, o Patriarca de Constantinopla Bartolomeu I, os Rabinos Chefes de Israel David Lau e Yitzhak Yosef, a rainha Elizabeth II, o Dalai Lama, o presidente da Igreja de Jesus Cristo dos Santos dos Últimos Dias Thomas S. Monson e o Bispo Edir Macedo.
 - As dez maiores companhias com ações negociadas em bolsa (Apple, Microsoft, Exxon Mobil, Johnson & Johnson, General Electric, Amazon, Facebook, Wells Fargo, AT&T e Nestle)
+- A Corte da Irmandade
 - Os Illuminati
 - A Liga da Justiça
 - Os Vingadores
-- Dr. Estranho
+- Os Guerreiros Z
+- O Dr. Estranho
 - O Lanterna Verde
 - O Surfista Prateado
 - O Doutor
